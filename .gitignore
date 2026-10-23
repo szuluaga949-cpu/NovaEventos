@@ -1,0 +1,17 @@
+# Entorno virtual y caché de Python
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variables de entorno y claves reales
+.env
+
+# Archivos temporales de sistema e IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.pytest_cache/
