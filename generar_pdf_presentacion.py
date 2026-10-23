@@ -130,7 +130,7 @@ def generar_presentacion():
     d.text((100, 260), "1. Identificación del Proyecto", fill=BLUE, font=F_H3)
     dibujar_lista(d, [
         "Proyecto: NovaEventos (Versión 2.0 - Segundo Corte).",
-        "Integrante: Santiago Zuluaga.",
+        "Integrante: Santiago Zuluaga, Jefrey Osorio, Juan Micanquer.",
         "Interfaz de usuario: Gradio (app_gradio.py - Puerto 7860).",
         "Agente y memoria: Python + Groq LLM (consulta_llm.py).",
         "API de negocio: FastAPI (main.py - Puerto 8011).",

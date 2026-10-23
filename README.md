@@ -5,7 +5,7 @@ Sistema conversacional para la cotización, verificación de disponibilidad, age
 ## 👥 Identificación e Integrantes
 - **Proyecto:** NovaEventos
 - **Asignatura:** Creación de Chatbots · Entrega del Segundo Corte
-- **Integrantes:** Santiago Zuluaga
+- **Integrantes:** Santiago Zuluaga, Jefrey Osorio, Juan Micanquer
 - **Documentación del corte:**
   - 📘 [Bitácora del Segundo Corte](./docs/Bitacora_Segundo_Corte.md)
   - 📊 [Presentación del Segundo Corte (PDF)](./docs/Presentacion_Segundo_Corte.pdf)
